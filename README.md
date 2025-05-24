@@ -58,9 +58,9 @@ graph TD;
     E -- Yes --> F[Final Humanized Output Saved]
 
 ---
-## Workflow
 
-## Workflow
+## Project Structure
+
 DeAItor-AIHumanizerBot/
 ├── loop_controller.py         # Controls the retry process
 ├── humanizeai.py              # Automates HumanizeAI.pro input/output
