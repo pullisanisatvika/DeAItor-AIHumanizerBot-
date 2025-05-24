@@ -1,4 +1,4 @@
-# 🤖 DeAItor – AIHumanizerBot
+# DeAItor – AIHumanizerBot
 
 **DeAItor – AIHumanizerBot** is an automation pipeline designed to transform AI-generated content into fully human-like text using a multi-step, retry-until-pass process. It leverages web automation to interface with **HumanizeAI.pro** (for rewriting), **ZeroGPT** (for AI detection), and **QuillBot** (for human-likeness validation).
 
@@ -6,13 +6,13 @@ This tool is ideal for researchers, writers, educators, and developers seeking t
 
 ---
 
-## 🧠 Purpose
+## Purpose
 
 In a world where content is increasingly flagged as AI-generated, even after rewriting, manually submitting to tools like HumanizeAI.pro, ZeroGPT, and QuillBot becomes tedious. **DeAItor automates this process** and guarantees high-quality, undetectable, and natural-sounding output with zero AI footprints.
 
 ---
 
-## 🚀 Features
+## Features
 
 | Feature                             | Description                                                                 |
 |-------------------------------------|-----------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ In a world where content is increasingly flagged as AI-generated, even after rew
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Language**: Python 3.8+
 - **Web Automation**: Playwright (preferred over Selenium for modern JS-heavy pages)
@@ -36,7 +36,7 @@ In a world where content is increasingly flagged as AI-generated, even after rew
 
 ---
 
-## 🧪 Workflow
+## Workflow
 
 ```mermaid
 graph TD;
